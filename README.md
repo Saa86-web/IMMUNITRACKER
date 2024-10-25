@@ -4,15 +4,23 @@ The Immunization Crusader is a database application designed to track the vaccin
 
 Features
 Track individuals getting vaccinated.
+
 Record various types of vaccines and their details.
+
 Log vaccination dates and upcoming doses.
+
 Monitor vaccination statuses (e.g., completed, pending).
+
 Store contact information for outreach and follow-up.
 Technologies Used
-Python
+vs code python
+
 SQLite (for the database)
+
 Getting Started
+
 Prerequisites
+
 Python 3.x
 SQLite (included with Python)
 Installation
